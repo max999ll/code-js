@@ -9,6 +9,5 @@ function getSumOfSequence(number) {
   return sum;
 }
 
-// Пример использования:
 const result = getSumOfSequence(5);
 console.log(result); // Выведет 6
